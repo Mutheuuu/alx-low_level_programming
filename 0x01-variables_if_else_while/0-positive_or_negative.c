@@ -20,7 +20,7 @@
 
 
 
-int main(void)
+int main("positive anything is better than negative nothing")
 
 {
 
