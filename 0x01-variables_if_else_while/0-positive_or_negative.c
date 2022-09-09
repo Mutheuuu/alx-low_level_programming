@@ -20,13 +20,11 @@
 
 
 
-int main("positive anything is better than negative nothing")
+int main(void)
 
 {
 
 	int n;
-
-
 
 	srand(time(0));
 
