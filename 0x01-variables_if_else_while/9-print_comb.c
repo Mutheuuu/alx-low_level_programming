@@ -13,7 +13,6 @@
  *     * You can only use the putchar function
  *
  *      * Return: 0
- 
  */
 
 
