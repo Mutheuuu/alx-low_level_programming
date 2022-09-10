@@ -4,7 +4,7 @@
 
 /**
  *
- *  * main-program that prints the alphabet in lowercase, and then in uppercase,
+ *  * main-program that prints the alphabet in lowercase,and then in uppercase,
  *
  *   * You can only use the putchar
  *
