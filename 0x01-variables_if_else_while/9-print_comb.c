@@ -3,7 +3,6 @@
 
 
 /**
- *
  *  *main-program that prints all possible combinations of single-digit
  *
  *   * Numbers must be separated by ,followed by a space
