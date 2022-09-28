@@ -2,8 +2,7 @@
 
 /**
  * _puts_recursion - prints a string recursively
- * @s: string parameter
- *
+ * @s: string parameter 
  * Return: void
  */
 void _puts_recursion(char *s)
