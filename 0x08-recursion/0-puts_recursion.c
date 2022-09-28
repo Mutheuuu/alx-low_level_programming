@@ -3,17 +3,19 @@
 /**
  * _puts_recursion - prints a string recursively
  * @s: string parameter
+ *
+ * Return: void
  */
 
 void _puts_recursion(char *s)
 {
-s = "lpa\0";
 if (*s == '\0')
 {
 _putchar('\n');
-return;
 }
-_putchar(*s);
-s++;
-_puts_recursion(s);
+else
+{
+_putchar(s[0]);
+_puts_recursion(s + 1);
+}
 }
