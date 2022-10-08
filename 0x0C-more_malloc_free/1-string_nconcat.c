@@ -27,7 +27,7 @@ return (NULL);
 len = 0;
 for (i = 0; s1[i]; i++)
 concat[len++] = s1[i];
-for (i = 0; s2[i] && i < n;) 
+for (i = 0; s2[i] && i < n;)
 concat[len++] = s2[i];
 concat[len] = '\0';
 return (concat);
