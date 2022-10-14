@@ -3,12 +3,11 @@
 
 /**
  * sum_them_all - returns the sum of all its parameters
- * @n - constant integer
- * Return: sum of integers passed to sum_them_all 
+ * @n: constant integer
+ * Return: sum of integers passed to sum_them_all
  */
 
 int sum_them_all(const unsigned int n, ...)
-
 {
 int sum = 0;
 unsigned int i;
