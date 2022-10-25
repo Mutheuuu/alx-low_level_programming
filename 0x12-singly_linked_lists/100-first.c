@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * before_main - function executed bfore main
+ * before_main - function executed before main
  */
 
 void before_main(void)
