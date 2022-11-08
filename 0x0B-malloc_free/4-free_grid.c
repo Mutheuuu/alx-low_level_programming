@@ -15,4 +15,3 @@ for (index = 0; index < height; index++)
 free(grid[index]);
 free(grid);
 }
-
