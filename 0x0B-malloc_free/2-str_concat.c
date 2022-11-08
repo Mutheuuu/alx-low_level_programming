@@ -41,7 +41,7 @@ while (i <= s3len)
 {
 s3[i] = s2[j];
 i++;
-j+=;
+j++;
 }
 return (s3);
 }
